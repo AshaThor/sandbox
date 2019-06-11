@@ -3,14 +3,14 @@
 
       {
          "id":"01",
-         "language": "Java",
+         "name": "Java",
          "learnt": "true",
          "summary": "Java is an Object Orientated programming language run and maintained by Oracle"
       },
 
       {
          "id":"02",
-         "language": "C#",
+         "name": "C#",
          "learnt": "true",
          "summary": "C# is an Object Orientated programming language run and maintained by Microsoft, its basically a differnet java"
       }
