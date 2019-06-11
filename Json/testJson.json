@@ -1,18 +1,14 @@
-{
-   "language": [
-
-      {
-         "id":"01",
-         "name": "Java",
-         "learnt": "true",
-         "summary": "Java is an Object Orientated programming language run and maintained by Oracle"
-      },
-
-      {
-         "id":"02",
-         "name": "C#",
-         "learnt": "true",
-         "summary": "C# is an Object Orientated programming language run and maintained by Microsoft, its basically a differnet java"
-      }
-   ]
-}
+[
+  {
+    "id":"01",
+    "name": "Java",
+    "learnt": "true",
+    "summary": "Java is an Object Orientated programming language run and maintained by Oracle"
+  },
+  {
+     "id":"02",
+     "name": "C#",
+     "learnt": "true",
+     "summary": "C# is an Object Orientated programming language run and maintained by Microsoft, its basically a differnet java"
+  }
+]
