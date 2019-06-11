@@ -2,6 +2,7 @@
   box-sizing: border-box
 }
 
+
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -25,10 +26,17 @@ h1 {
   color: white;
 }
 
+h2 {
+  text-align: center;
+  padding: inherit;
+  font-size: 1rem;
+  color: inherit;
+}
+
 img {
   display: block;
   margin: 1rem auto;
-  max-width: 100%;
+  max-width: 15%;
 }
 
 p {
