@@ -24,7 +24,7 @@ request.onload = function () {
       h1.textContent = codeLanguage.name;
 
       const h2 = document.createElement('h2')
-      h2.textContent = "Learnt: " + codeLanguage.learnt;
+      h2.textContent = "Level of Understanding: " + codeLanguage.lou;
 
       const p = document.createElement('p');
       codeLanguage.description = codeLanguage.summary.substring(0, 300);

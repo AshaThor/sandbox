@@ -2,25 +2,25 @@
   {
     "id":"01",
     "name": "Java",
-    "learnt": "true",
+    "lou": "Cappable",
     "summary": "Java is an Object Orientated programming language run and maintained by Oracle"
   },
   {
      "id":"02",
      "name": "C#",
-     "learnt": "true",
+     "lou": "Basic",
      "summary": "C# is an Object Orientated programming language run and maintained by Microsoft, its basically a differnet java"
   },
   {
      "id":"03",
      "name": "Python",
-     "learnt": "true",
+     "lou": "Capable",
      "summary": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aims to help programmers write clear, logical code for small and large-scale projects."
   },
   {
      "id":"04",
      "name": "PYP",
-     "learnt": "false",
+     "lou": "Not Attempted",
      "summary": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. "
   }
 ]
