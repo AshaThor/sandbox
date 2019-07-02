@@ -10,7 +10,7 @@ app.appendChild(logo);
 app.appendChild(container);
 
 var request = new XMLHttpRequest();
-request.open('GET', 'https://ashathor.github.io/sandbox/Json/testJson.json', true);
+request.open('GET', 'https://ashathor.github.io/sandbox/languages/json/testJson.json', true);
 request.onload = function () {
 
   // Begin accessing JSON data here
