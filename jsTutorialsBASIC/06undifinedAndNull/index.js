@@ -10,4 +10,4 @@ console.log(thing , typeof(thing));
 
 thing = null;
 console.log(thing, typeof(thing));
-//Output NULL
+//Output NULL ojbect
