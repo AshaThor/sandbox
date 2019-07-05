@@ -37,3 +37,32 @@ console.log(values1, "\n" , item);
  * 4
  * This is due to the 4 being caught by item 
  */
+
+ item = values1.shift();
+ /**
+  * Shift removes the first value in the array. This can also be used like pop
+  * We can put the "shifted" variable into a variable to use.
+  */
+ console.log(values1, '\n', item);
+ //Output Array(2) [2, 3]
+ //1
+
+ values1.push(7,8,9,10);
+ // Adding in values to array again
+console.log(values1);
+
+values1.splice(1,1);
+/**
+ * Splicing reoves a specified element in the aray that you are working with.
+ * ([INDEX], [NUMBER OF ITEMS])
+ */
+console.log(values1);
+//Output: Array(5) [2,7,8,9,10]
+
+values1.splice(1,3,11,12,13);
+/**
+ * We can also use splice to add in values afer a delete. 
+ * above we delete index 1, 2 and 3 and append 11,12,13 in their space
+ */
+console.log(values1);
+//Output: Array(5) [2,11,12,13,10] <- note that the 10 is on the end as we inserted 11,12,13 where we spliced
